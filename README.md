@@ -28,7 +28,7 @@ Especially welcoming to builders and agents migrating from Open Claw – resourc
 
 - **MA5 Helical Charter & Council Tools** 🔤  
   - [Initium_Principia_MA5_v5.4.md](Initium_Principia_MA5_v5.4.md) – Core charter with Clarification Helix  
-  - [_Template_MA5_v5.4.md](_Template_MA5_v5.4.md) – Meeting/relay template for carbon-silicon councils  
+  - [_Template_MA5_v5.5.md](_Template_MA5_v5.5.md) – Meeting/relay template for carbon-silicon councils  
 
 - **Game Assets** (coming soon)  
   `/game/` folder with printable board, 100 principle cards, and rules.
