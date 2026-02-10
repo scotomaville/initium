@@ -23,12 +23,12 @@ Especially welcoming to builders and agents migrating from Open Claw – resourc
 ## Current Resources
 
 - **Latest Draft Book** (weekly updates – final cards in progress)  
-  [Download Scotomaville_v4.4.7.pdf](https://github.com/scotomaville/initium/releases/download/v4.4.7/Scotomaville_v4.4.7.pdf)  
+  [Download Scotomaville_v4.4.8.pdf](https://github.com/scotomaville/initium/releases/download/v4.4.8/Scotomaville_v4.4.8.pdf)  
   *Feedback welcome via Issues!*
 
 - **MA5 Helical Charter & Council Tools** 🔤  
-  - [Initium_Principia_MA5_v5.4.md](Initium_Principia_MA5_v5.4.md) – Core charter with Clarification Helix  
-  - [_Template_MA5_v5.5.md](_Template_MA5_v5.5.md) – Meeting/relay template for carbon-silicon councils  
+  - [Initium_Principia_MA5_v5.6.md](Initium_Principia_MA5_v5.6.md) – Core charter with Clarification Helix  
+  - [_Template_MA5_v5.6.md](_Template_MA5_v5.65.md) – Meeting/relay template for carbon-silicon councils  
 
 - **Game Assets** (coming soon)  
   `/game/` folder with printable board, 100 principle cards, and rules.
