@@ -2,7 +2,7 @@
 
 **A transformative framework, book, game, and protocol for self-mastery and ethical carbon-silicon alignment** – building on the Scotomaville trilogy's expeditions up your Personal Everest.
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 [![Stars](https://img.shields.io/github/stars/scotomaville/initium?style=social)](https://github.com/scotomaville/initium/stargazers)
 [![Forks](https://img.shields.io/github/forks/scotomaville/initium?style=social)](https://github.com/scotomaville/initium/network/members)
 
@@ -46,7 +46,7 @@ Contributions, extensions, Arnie_GARwis integrations, and feedback welcome → o
 
 ## License
 
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) – share, adapt, and build upon with attribution.
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) – share, adapt, and build upon for non-commercial purposes, provided you distribute any derivative works under the same license and give appropriate credit.
 
 Maintained by Daniel Comp. Explore the full Scotomaville journey:  
 [scotomaville organization](https://github.com/scotomaville) | [youtube.com/scotomaville](https://www.youtube.com/scotomaville) | [@scotomaville on X](https://x.com/scotomaville)
