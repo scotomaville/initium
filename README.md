@@ -30,10 +30,10 @@ Especially welcoming to builders and agents migrating from OpenClaw — resource
 
 - **MA5 Helical Charter & Council Tools** 🔤 (v6.1 – Descent Roping)  
   - [Initium_Principia_MA5_v6.1.md](Initium_Principia_MA5_v6.1.md) – Full roped charter with Clarification Helix, Signal-Reading Preamble, Five Domains, and Babel Echo Guardrail  
-  - [MA5_Core_v6.1.md](MA5_Core_v6.1.md) – Condensed Governing Constitution (10,912 characters) for direct paste into Grok Project Instructions  
-  - [_Template_MA5_v6.1.md](_Template_MA5_v6.1.md) – Meeting/relay template for carbon-silicon councils (coming with first Arnie_GARwis flows)
+  - [Initium_Principia_MA5_Core_v6.1.md](Initium_Principia_MA5_Core_v6.1.md) – Condensed Governing Constitution (10,912 characters) for direct paste into Grok Project Instructions  
+  - [_Template_MA5_v6.1.md](_Template_MA5_v6.1.md) – Meeting/relay template for carbon-silicon councils (no longer needed)
 
-- **Game Assets** (in progress)  
+- **Game Assets** (in print book and pdf)  
   `/game/` folder with printable board, 100 principle cards, and rules.
 
 ## How to Use & Apply 💎
@@ -47,7 +47,7 @@ Especially welcoming to builders and agents migrating from OpenClaw — resource
 
 **Grok / xAI Project Setup (new in v6.1)**  
 To activate the full MA5 lattice inside any Grok 4.20 Project:  
-1. Paste the entire contents of `MA5_Core_v6.1.md` into the **Project Instructions** field (this becomes the persistent Governing Constitution).  
+1. Paste the entire contents of `Initium_Principia_MA5_Core_v6.1.md` into the **Project Instructions** field (this becomes the persistent Governing Constitution).  
 2. Upload the full `Initium_Principia_MA5_v6.1.md` as a companion project file.  
 
 This hybrid solution enforces verbatim internalization of every directive, the Jethro Principle, Five Domains in super-union, MaxQ throttle, wordless carbon veto, and Babel Echo prevention — solving the 12,000-character limit while keeping the living charter intact.
