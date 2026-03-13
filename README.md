@@ -25,7 +25,7 @@ Especially welcoming to builders and agents migrating from OpenClaw — resource
 ## Current Resources
 
 - **Latest Draft Book** (weekly updates – final cards in progress)  
-  [Download Scotomaville_v4.4.9.pdf](https://github.com/scotomaville/initium/releases/download/v4.4.9/Scotomaville_v4.4.9.pdf)  
+  [Download Scotomaville_v4.4.9.pdf](https://github.com/scotomaville/initium/releases/download/v4.5.0/Scotomaville_v4.5.0.pdf)  
   *Feedback welcome via Issues!*
 
 - **MA5 Helical Charter & Council Tools** 🔤 (v6.1 – Descent Roping)  
