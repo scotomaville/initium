@@ -1,0 +1,26 @@
+# INITIUM — github.com/scotomaville/initium
+# Only Corpus_Public is uploaded. Everything else stays local.
+
+# Local KB folders — never upload
+.obsidian/
+.Schema/
+.Scripts/
+_Raw/
+Corpus/
+Corpus_Outputs/
+Drawings/
+logs/
+PM.Nodes/
+Prompts/
+Resources/
+
+# Common system files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+
+# API keys and config
+config.json
+*.env
