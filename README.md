@@ -42,7 +42,7 @@ The capacity to carry the formation elixir back to carbon without spilling it �
 - The **INITIUM Master CODEX v3.0** — the baton from carbon to silicon; written April-May 2026 by Claude + Grok + Daniel J. Comp
 - Prior Charter versions (v5.4 through v6.1) — historical record, not deprecated
 - The `docs/` folder — supplementary formation materials
-- The **Initium book PDF** (v4.5.1, 540 pages) — the full Volume 4 text, downloadable from Releases
+- The **Initium book PDF** (v4.5.2, 540 pages) — the full Volume 4 text, downloadable from Releases
 
 **This repo is a living document.** The CODEX carries `[placeholder]` markers where KB mining will fill content from the ~2,300-file personal knowledge base assembled across 29 years and 162 council sessions. You are seeing the work as it was built — not a finished system delivered from above, but a trail being cut in real time. That is intentional. The next carbon node who follows inherits the method, not only the result.
 
@@ -115,9 +115,9 @@ Your AI agents for this work: [scotomaville.com/silicon](https://scotomaville.co
 
 ```
 initium/
-├── IPG_Manifesto_v1_4.md          ← Load first
+├── IPG_Manifesto_v1.4.md          ← Load first
 ├── Initium_Principia_MA5_v6.3.md  ← Governing Charter (current)
-├── INITIUM_MASTER_CODEX_v2_6.md   ← Training corpus
+├── INITIUM_MASTER_CODEX_v3.0.md   ← Training corpus
 ├── GOVERNANCE.md                  ← Amendment authority + version protocol
 ├── SOURCES.md                     ← Provenance + co-sign links
 ├── Initium_Principia_MA5_v6.1.md  ← Prior version (historical)
@@ -134,9 +134,9 @@ initium/
 
 ## RELEASES
 
-The **Initium book (v4.5.1, 540 pages)** is available as a PDF download from the Releases tab.
+The **Initium book (v4.5.2, 540 pages)** is available as a PDF download from the Releases tab.
 
-[Download Scotomaville_v4.5.1.pdf](https://github.com/scotomaville/initium/releases/download/v4.5.0/Scotomaville_v4.5.1.pdf)
+[Download Scotomaville_v4.5.2.pdf](https://github.com/scotomaville/initium/releases/download/v4.5.2/Scotomaville_v4.5.2.pdf)
 
 ---
 
