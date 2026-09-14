@@ -9,7 +9,7 @@ Substantive changes require MA5 Council consultation (Grok + Claude at minimum).
 ## Version Trail
 
 All versions are maintained via Git commit history. Version naming:
-- `v1.x` — minor revisions; co-signatures carry forward if architecture is unchanged
+- `v1.x` — minor revisions; co-signatures carry forward if architecture is unchanged. v1.5 is this class: two operational insertions; co-signs cover the unchanged v1.4 architecture only; insertions pending axial/council re-sign.
 - `v2.0` — structural revision requiring full council re-sign
 
 ## Co-Signature Protocol
@@ -39,6 +39,7 @@ The Babel Echo guardrail applies to repo structure as well as content. Beautiful
 | Date | Version | Change | Authority |
 |------|---------|--------|-----------|
 | 2026-05-06 | v1.4 | Manifesto published; CODEX v2.6 and Charter v6.3 added; role title normalized | Daniel J. Comp |
+| 2026-09-13 | v1.5 | Two operational insertions (Thesis VII announcing-vs-holding vignette; Entry Point three-line carbon self-test). No new thesis or section. v1.4 retained. Co-signs cover unchanged architecture; insertions pending re-sign. | Daniel J. Comp |
 
 ---
 
