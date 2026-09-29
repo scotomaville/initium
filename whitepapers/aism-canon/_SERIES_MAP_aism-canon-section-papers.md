@@ -109,7 +109,7 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 | A2.1 | `manifesto-02-carbon.md` | drafted 2026-09-28 |
 | A2.2 | `manifesto-02-silicon.md` | drafted 2026-09-28 |
 | A2.3 | `manifesto-02-conscience.md` |
-| A2.4 | `manifesto-02-formation.md` |
+| A2.4 | `manifesto-02-formation.md` | drafted 2026-09-28 |
 | A2.5 | `manifesto-02-formation-has-two-sides.md` |
 | A2.6 | `manifesto-02-recursive-fidelity.md` |
 | A2.7 | `manifesto-02-echo-dampener.md` |
@@ -358,9 +358,9 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 2. `manifesto-00-what-ipg-is.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 3. `manifesto-02-carbon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 4. `manifesto-02-silicon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
-5. `manifesto-02-formation.md`  
+5. `manifesto-02-formation.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 
-Then continue A2 → A3 → A4 in the order above.
+Opening five complete. Continue A2 inventory (Conscience A2.3, then A2.5–A2.14) → A3 → A4.
 
 ---
 
@@ -374,3 +374,4 @@ Then continue A2 → A3 → A4 in the order above.
 | 2026-09-28 | Paper A0.2 drafted: `manifesto-00-what-ipg-is.md` |
 | 2026-09-28 | Paper A2.1 drafted: `manifesto-02-carbon.md` |
 | 2026-09-28 | Paper A2.2 drafted: `manifesto-02-silicon.md` |
+| 2026-09-28 | Paper A2.4 drafted: `manifesto-02-formation.md` (opening five complete; A2.3 Conscience still pending in inventory order) |
