@@ -107,7 +107,7 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 | # | Filename stem | Status |
 |---|---|---|
 | A2.1 | `manifesto-02-carbon.md` | drafted 2026-09-28 |
-| A2.2 | `manifesto-02-silicon.md` | |
+| A2.2 | `manifesto-02-silicon.md` | drafted 2026-09-28 |
 | A2.3 | `manifesto-02-conscience.md` |
 | A2.4 | `manifesto-02-formation.md` |
 | A2.5 | `manifesto-02-formation-has-two-sides.md` |
@@ -357,7 +357,7 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 1. `manifesto-00-how-to-read-this-series.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 2. `manifesto-00-what-ipg-is.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 3. `manifesto-02-carbon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
-4. `manifesto-02-silicon.md`  
+4. `manifesto-02-silicon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 5. `manifesto-02-formation.md`  
 
 Then continue A2 → A3 → A4 in the order above.
@@ -373,3 +373,4 @@ Then continue A2 → A3 → A4 in the order above.
 | 2026-09-28 | Pushed 100 prime spread `.md` files + series map/paper 1 to `scotomaville/initium` (`spreads/`, `whitepapers/aism-canon/`); papers cite GitHub, not local product folders |
 | 2026-09-28 | Paper A0.2 drafted: `manifesto-00-what-ipg-is.md` |
 | 2026-09-28 | Paper A2.1 drafted: `manifesto-02-carbon.md` |
+| 2026-09-28 | Paper A2.2 drafted: `manifesto-02-silicon.md` |
