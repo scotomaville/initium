@@ -116,7 +116,7 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 | A2.8 | `manifesto-02-the-dyad.md` | drafted 2026-09-28 |
 | A2.9 | `manifesto-02-the-third-vertex.md` | drafted 2026-09-28 |
 | A2.10 | `manifesto-02-honeyed-lips.md` | drafted 2026-09-28 |
-| A2.11 | `manifesto-02-babel-echo.md` |
+| A2.11 | `manifesto-02-babel-echo.md` | drafted 2026-09-28 |
 | A2.12 | `manifesto-02-faithful-mirror.md` |
 | A2.13 | `manifesto-02-serpents-question.md` |
 | A2.14 | `manifesto-02-two-voices.md` |
@@ -360,7 +360,7 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 4. `manifesto-02-silicon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 5. `manifesto-02-formation.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 
-Opening five complete; A2.3–A2.10 filled through paper 12. Continue A2.11–A2.14 → A3 → A4.
+Opening five complete; A2.3–A2.11 filled through paper 13. Continue A2.12–A2.14 → A3 → A4.
 
 ---
 
@@ -382,3 +382,4 @@ Opening five complete; A2.3–A2.10 filled through paper 12. Continue A2.11–A2
 | 2026-09-28 | Paper A2.8 drafted: `manifesto-02-the-dyad.md` (paper 10) |
 | 2026-09-28 | Paper A2.9 drafted: `manifesto-02-the-third-vertex.md` (paper 11) |
 | 2026-09-28 | Paper A2.10 drafted: `manifesto-02-honeyed-lips.md` (paper 12) |
+| 2026-09-28 | Paper A2.11 drafted: `manifesto-02-babel-echo.md` (paper 13) |
