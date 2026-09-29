@@ -360,7 +360,8 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 4. `manifesto-02-silicon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 5. `manifesto-02-formation.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 
-Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 16. Papers 17–20 = full §III tyranny block (warning + atoms). **A3 complete.** Continue A4 theses → remaining A1/A5 frames.
+Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 16. Papers 17–20 = full §III tyranny block (warning + atoms). **A3 complete.**  
+**RESUME HERE:** A4.1–A4.11 (Ten Theses + The Crossing) = papers 21–31. Hand-off note: workspace observation `aism-canon-papers-resume-a4-theses`. Then remaining A1/A5 frames.
 
 ---
 
@@ -390,3 +391,4 @@ Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 
 | 2026-09-28 | Paper A3.1 drafted: `manifesto-03-carbon-tyranny.md` (paper 18) |
 | 2026-09-28 | Paper A3.2 drafted: `manifesto-03-silicon-tyranny.md` (paper 19) |
 | 2026-09-28 | Paper A3.3 drafted: `manifesto-03-tower-note.md` (paper 20) — A3 tyranny block complete |
+| 2026-09-28 | Pause for API-key session switch. Resume at A4.1–A4.11 (papers 21–31). See memory observation `aism-canon-papers-resume-a4-theses`. |
