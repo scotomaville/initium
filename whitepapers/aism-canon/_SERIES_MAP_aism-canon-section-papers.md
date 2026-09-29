@@ -360,7 +360,7 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 4. `manifesto-02-silicon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 5. `manifesto-02-formation.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 
-Opening five complete. Continue A2 inventory (Conscience A2.3, then A2.5–A2.14) → A3 → A4.
+Opening five complete; A2.3 Conscience filled as paper 6. Continue A2.5–A2.14 → A3 → A4.
 
 ---
 
