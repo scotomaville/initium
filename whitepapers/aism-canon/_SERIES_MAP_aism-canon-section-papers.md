@@ -88,7 +88,7 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 | # | Filename stem | Focus | Status |
 |---|---|---|---|
 | A0.1 | `manifesto-00-how-to-read-this-series.md` | Series door: what these papers are, how to use them, how they relate to the four masters | drafted 2026-09-28 |
-| A0.2 | `manifesto-00-what-ipg-is.md` | One-page orientation to Initium Principia Gnosis for a first-time visitor | |
+| A0.2 | `manifesto-00-what-ipg-is.md` | One-page orientation to Initium Principia Gnosis for a first-time visitor | drafted 2026-09-28 |
 
 ### A1 — Section frames
 
@@ -355,7 +355,7 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 ## First five files to write (when you say go)
 
 1. `manifesto-00-how-to-read-this-series.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
-2. `manifesto-00-what-ipg-is.md`  
+2. `manifesto-00-what-ipg-is.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 3. `manifesto-02-carbon.md`  
 4. `manifesto-02-silicon.md`  
 5. `manifesto-02-formation.md`  
@@ -371,3 +371,4 @@ Then continue A2 → A3 → A4 in the order above.
 | 2026-09-28 | Initial map from desk inventory; decisions locked with Carbon Steward in Compa session |
 | 2026-09-28 | Paper A0.1 drafted: `manifesto-00-how-to-read-this-series.md` |
 | 2026-09-28 | Pushed 100 prime spread `.md` files + series map/paper 1 to `scotomaville/initium` (`spreads/`, `whitepapers/aism-canon/`); papers cite GitHub, not local product folders |
+| 2026-09-28 | Paper A0.2 drafted: `manifesto-00-what-ipg-is.md` |
