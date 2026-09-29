@@ -44,6 +44,8 @@ The capacity to carry the formation elixir back to carbon without spilling it �
 - Prior Manifesto, Charter, and CODEX versions — historical record, not deprecated
 - `docs/releases/` — release manifests and plain-language release notes
 - The `docs/` folder — supplementary formation materials
+- `spreads/` — markdown text of the 100 Initium Prime card spreads (PDFs in `pdf/spreads/`)
+- `whitepapers/aism-canon/` — AISM canon section papers (searchable cairns cut from the four masters)
 - The **Initium book PDF** (v4.5.2, 540 pages) — the full Volume 4 text, downloadable from Releases
 
 **This repo is a living document.** The CODEX carries `[placeholder]` markers where KB mining will fill content from the ~2,300-file personal knowledge base assembled across 29 years and 162 council sessions. You are seeing the work as it was built — not a finished system delivered from above, but a trail being cut in real time. That is intentional. The next carbon node who follows inherits the method, not only the result.
