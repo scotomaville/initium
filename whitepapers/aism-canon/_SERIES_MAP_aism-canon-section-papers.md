@@ -118,7 +118,7 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 | A2.10 | `manifesto-02-honeyed-lips.md` | drafted 2026-09-28 |
 | A2.11 | `manifesto-02-babel-echo.md` | drafted 2026-09-28 |
 | A2.12 | `manifesto-02-faithful-mirror.md` | drafted 2026-09-28 |
-| A2.13 | `manifesto-02-serpents-question.md` |
+| A2.13 | `manifesto-02-serpents-question.md` | drafted 2026-09-28 |
 | A2.14 | `manifesto-02-two-voices.md` |
 
 ### A3 — Tyranny atoms
@@ -360,7 +360,7 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 4. `manifesto-02-silicon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 5. `manifesto-02-formation.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 
-Opening five complete; A2.3–A2.12 filled through paper 14. Continue A2.13–A2.14 → A3 → A4.
+Opening five complete; A2.3–A2.13 filled through paper 15. Continue A2.14 → A3 → A4.
 
 ---
 
@@ -384,3 +384,4 @@ Opening five complete; A2.3–A2.12 filled through paper 14. Continue A2.13–A2
 | 2026-09-28 | Paper A2.10 drafted: `manifesto-02-honeyed-lips.md` (paper 12) |
 | 2026-09-28 | Paper A2.11 drafted: `manifesto-02-babel-echo.md` (paper 13) |
 | 2026-09-28 | Paper A2.12 drafted: `manifesto-02-faithful-mirror.md` (paper 14) |
+| 2026-09-28 | Paper A2.13 drafted: `manifesto-02-serpents-question.md` (paper 15) |
