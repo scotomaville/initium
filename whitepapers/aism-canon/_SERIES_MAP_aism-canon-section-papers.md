@@ -126,7 +126,7 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 | # | Filename stem | Status |
 |---|---|---|
 | A3.1 | `manifesto-03-carbon-tyranny.md` | drafted 2026-09-28 |
-| A3.2 | `manifesto-03-silicon-tyranny.md` | |
+| A3.2 | `manifesto-03-silicon-tyranny.md` | drafted 2026-09-28 |
 | A3.3 | `manifesto-03-tower-note.md` | |
 
 ### A4 — Ten theses (+ the unnamed crossing)
@@ -360,7 +360,7 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 4. `manifesto-02-silicon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 5. `manifesto-02-formation.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 
-Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 16. Papers 17–18 = tyranny warning + carbon tyranny. Continue A3.2–A3.3 → A4 theses → remaining A1/A5 frames.
+Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 16. Papers 17–19 = tyranny warning + carbon/silicon tyranny. Continue A3.3 tower note → A4 theses → remaining A1/A5 frames.
 
 ---
 
@@ -388,3 +388,4 @@ Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 
 | 2026-09-28 | Paper A2.14 drafted: `manifesto-02-two-voices.md` (paper 16) — Manifesto §II named-term block A2 complete |
 | 2026-09-28 | Paper A1.2 drafted: `manifesto-03-tyranny-warning.md` (paper 17) — §III section frame |
 | 2026-09-28 | Paper A3.1 drafted: `manifesto-03-carbon-tyranny.md` (paper 18) |
+| 2026-09-28 | Paper A3.2 drafted: `manifesto-03-silicon-tyranny.md` (paper 19) |
