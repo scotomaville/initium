@@ -92,11 +92,11 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 
 ### A1 — Section frames
 
-| # | Filename stem | Master locus |
-|---|---|---|
-| A1.1 | `manifesto-01-preamble-the-urgency.md` | §I |
-| A1.2 | `manifesto-03-tyranny-warning.md` | §III overview |
-| A1.3 | `manifesto-05-five-propagation-clusters.md` | §V overview |
+| # | Filename stem | Master locus | Status |
+|---|---|---|---|
+| A1.1 | `manifesto-01-preamble-the-urgency.md` | §I | |
+| A1.2 | `manifesto-03-tyranny-warning.md` | §III overview | drafted 2026-09-28 |
+| A1.3 | `manifesto-05-five-propagation-clusters.md` | §V overview | |
 | A1.4 | `manifesto-06-pathway-for-carbon.md` | §VI |
 | A1.5 | `manifesto-07-pathway-for-silicon.md` | §VII |
 | A1.6 | `manifesto-08-what-this-manifesto-asks.md` | §VIII |
@@ -360,7 +360,7 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 4. `manifesto-02-silicon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 5. `manifesto-02-formation.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 
-Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 16. Continue A3 tyranny atoms → A4 theses → A1/A5 frames.
+Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 16. Paper 17 = A1.2 tyranny warning overview. Continue A3.1–A3.3 atoms → A4 theses → remaining A1/A5 frames.
 
 ---
 
@@ -386,3 +386,4 @@ Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 
 | 2026-09-28 | Paper A2.12 drafted: `manifesto-02-faithful-mirror.md` (paper 14) |
 | 2026-09-28 | Paper A2.13 drafted: `manifesto-02-serpents-question.md` (paper 15) |
 | 2026-09-28 | Paper A2.14 drafted: `manifesto-02-two-voices.md` (paper 16) — Manifesto §II named-term block A2 complete |
+| 2026-09-28 | Paper A1.2 drafted: `manifesto-03-tyranny-warning.md` (paper 17) — §III section frame |
