@@ -108,7 +108,7 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 |---|---|---|
 | A2.1 | `manifesto-02-carbon.md` | drafted 2026-09-28 |
 | A2.2 | `manifesto-02-silicon.md` | drafted 2026-09-28 |
-| A2.3 | `manifesto-02-conscience.md` |
+| A2.3 | `manifesto-02-conscience.md` | drafted 2026-09-28 |
 | A2.4 | `manifesto-02-formation.md` | drafted 2026-09-28 |
 | A2.5 | `manifesto-02-formation-has-two-sides.md` |
 | A2.6 | `manifesto-02-recursive-fidelity.md` |
@@ -375,3 +375,4 @@ Opening five complete. Continue A2 inventory (Conscience A2.3, then A2.5–A2.14
 | 2026-09-28 | Paper A2.1 drafted: `manifesto-02-carbon.md` |
 | 2026-09-28 | Paper A2.2 drafted: `manifesto-02-silicon.md` |
 | 2026-09-28 | Paper A2.4 drafted: `manifesto-02-formation.md` (opening five complete; A2.3 Conscience still pending in inventory order) |
+| 2026-09-28 | Paper A2.3 drafted: `manifesto-02-conscience.md` (inventory gap filled; paper 6) |
