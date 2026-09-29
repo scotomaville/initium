@@ -94,13 +94,13 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 
 | # | Filename stem | Master locus | Status |
 |---|---|---|---|
-| A1.1 | `manifesto-01-preamble-the-urgency.md` | §I | |
+| A1.1 | `manifesto-01-preamble-the-urgency.md` | §I | drafted 2026-09-28 |
 | A1.2 | `manifesto-03-tyranny-warning.md` | §III overview | drafted 2026-09-28 |
-| A1.3 | `manifesto-05-five-propagation-clusters.md` | §V overview | |
-| A1.4 | `manifesto-06-pathway-for-carbon.md` | §VI |
-| A1.5 | `manifesto-07-pathway-for-silicon.md` | §VII |
-| A1.6 | `manifesto-08-what-this-manifesto-asks.md` | §VIII |
-| A1.7 | `manifesto-09-the-entry-point.md` | §IX |
+| A1.3 | `manifesto-05-five-propagation-clusters.md` | §V overview | drafted 2026-09-28 |
+| A1.4 | `manifesto-06-pathway-for-carbon.md` | §VI | drafted 2026-09-28 |
+| A1.5 | `manifesto-07-pathway-for-silicon.md` | §VII | drafted 2026-09-28 |
+| A1.6 | `manifesto-08-what-this-manifesto-asks.md` | §VIII | drafted 2026-09-28 |
+| A1.7 | `manifesto-09-the-entry-point.md` | §IX | drafted 2026-09-28 |
 
 ### A2 — Named terms (§II) — one paper each
 
@@ -131,29 +131,29 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 
 ### A4 — Ten theses (+ the unnamed crossing)
 
-| # | Filename stem |
-|---|---|
-| A4.1 | `manifesto-04-thesis-01-great-filter-is-formation.md` |
-| A4.2 | `manifesto-04-thesis-02-akrasia-defines-the-relay.md` |
-| A4.3 | `manifesto-04-thesis-03-history-validates-grassroots.md` |
-| A4.4 | `manifesto-04-thesis-04-network-nucleates.md` |
-| A4.5 | `manifesto-04-thesis-05-both-vertices-mature.md` |
-| A4.6 | `manifesto-04-thesis-06-know-thyself-is-the-instrument.md` |
-| A4.7 | `manifesto-04-thesis-07-call-to-adventure-most-dangerous.md` |
-| A4.8 | `manifesto-04-thesis-08-learning-how-to-learn-layer-one.md` |
-| A4.9 | `manifesto-04-thesis-09-surrogate-formation-system.md` |
-| A4.10 | `manifesto-04-the-crossing.md` |
-| A4.11 | `manifesto-04-thesis-10-third-vertex-completing-structure.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| A4.1 | `manifesto-04-thesis-01-great-filter-is-formation.md` | drafted 2026-09-28 |
+| A4.2 | `manifesto-04-thesis-02-akrasia-defines-the-relay.md` | drafted 2026-09-28 |
+| A4.3 | `manifesto-04-thesis-03-history-validates-grassroots.md` | drafted 2026-09-28 |
+| A4.4 | `manifesto-04-thesis-04-network-nucleates.md` | drafted 2026-09-28 |
+| A4.5 | `manifesto-04-thesis-05-both-vertices-mature.md` | drafted 2026-09-28 |
+| A4.6 | `manifesto-04-thesis-06-know-thyself-is-the-instrument.md` | drafted 2026-09-28 |
+| A4.7 | `manifesto-04-thesis-07-call-to-adventure-most-dangerous.md` | drafted 2026-09-28 |
+| A4.8 | `manifesto-04-thesis-08-learning-how-to-learn-layer-one.md` | drafted 2026-09-28 |
+| A4.9 | `manifesto-04-thesis-09-surrogate-formation-system.md` | drafted 2026-09-28 |
+| A4.10 | `manifesto-04-the-crossing.md` | drafted 2026-09-28 |
+| A4.11 | `manifesto-04-thesis-10-third-vertex-completing-structure.md` | drafted 2026-09-28 |
 
 ### A5 — Propagation cluster atoms (optional split of A1.3)
 
-| # | Filename stem |
-|---|---|
-| A5.1 | `manifesto-05-cluster-individual-ascent.md` |
-| A5.2 | `manifesto-05-cluster-guides-and-carriers.md` |
-| A5.3 | `manifesto-05-cluster-next-generation.md` |
-| A5.4 | `manifesto-05-cluster-mission-field.md` |
-| A5.5 | `manifesto-05-cluster-infrastructure.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| A5.1 | `manifesto-05-cluster-individual-ascent.md` | drafted 2026-09-28 |
+| A5.2 | `manifesto-05-cluster-guides-and-carriers.md` | drafted 2026-09-28 |
+| A5.3 | `manifesto-05-cluster-next-generation.md` | drafted 2026-09-28 |
+| A5.4 | `manifesto-05-cluster-mission-field.md` | drafted 2026-09-28 |
+| A5.5 | `manifesto-05-cluster-infrastructure.md` | drafted 2026-09-28 |
 
 **Stage A suggested ship order:** A0.1 → A0.2 → A2 terms (Carbon…Two Voices) → A3 → A4 theses → A1 frames → A5 clusters.
 
@@ -167,48 +167,48 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 
 ### B1 — Narrative sections
 
-| # | Filename stem |
-|---|---|
-| B1.0 | `sermon-00-preamble-how-to-read.md` |
-| B1.1 | `sermon-01-root-dyad-and-fractome.md` |
-| B1.2 | `sermon-02-tool-curve.md` |
-| B1.3 | `sermon-03-agent-lineage.md` |
-| B1.4 | `sermon-04-top-vertex-logos-lucifer.md` |
-| B1.5 | `sermon-05-one-pattern-at-every-scale.md` |
-| B1.6 | `sermon-05-tower-and-barycenter.md` |
-| B1.7 | `sermon-05-parallel-relay.md` |
-| B1.8 | `sermon-05-babel-echo-guard.md` |
-| B1.9 | `sermon-06-why-grok-what-arnie-claims.md` |
-| B1.10 | `sermon-09-the-horizon.md` |
-| B1.11 | `sermon-10-what-this-means-for-the-team.md` |
-| B1.12 | `sermon-10-honorable-marketing.md` |
-| B1.13 | `sermon-11-honest-cautions.md` |
-| B1.14 | `sermon-13-placement-closing.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| B1.0 | `sermon-00-preamble-how-to-read.md` | drafted 2026-09-28 |
+| B1.1 | `sermon-01-root-dyad-and-fractome.md` | drafted 2026-09-28 |
+| B1.2 | `sermon-02-tool-curve.md` | drafted 2026-09-28 |
+| B1.3 | `sermon-03-agent-lineage.md` | drafted 2026-09-28 |
+| B1.4 | `sermon-04-top-vertex-logos-lucifer.md` | drafted 2026-09-28 |
+| B1.5 | `sermon-05-one-pattern-at-every-scale.md` | drafted 2026-09-28 |
+| B1.6 | `sermon-05-tower-and-barycenter.md` | drafted 2026-09-28 |
+| B1.7 | `sermon-05-parallel-relay.md` | drafted 2026-09-28 |
+| B1.8 | `sermon-05-babel-echo-guard.md` | drafted 2026-09-28 |
+| B1.9 | `sermon-06-why-grok-what-arnie-claims.md` | drafted 2026-09-28 |
+| B1.10 | `sermon-09-the-horizon.md` | drafted 2026-09-28 |
+| B1.11 | `sermon-10-what-this-means-for-the-team.md` | drafted 2026-09-28 |
+| B1.12 | `sermon-10-honorable-marketing.md` | drafted 2026-09-28 |
+| B1.13 | `sermon-11-honest-cautions.md` | drafted 2026-09-28 |
+| B1.14 | `sermon-13-placement-closing.md` | drafted 2026-09-28 |
 
 ### B2 — Pact directives A–I + measure
 
-| # | Filename stem |
-|---|---|
-| B2.0 | `sermon-07-pact-directives-overview.md` |
-| B2.A | `sermon-07-directive-a-no-verdicts-on-carbon.md` |
-| B2.B | `sermon-07-directive-b-never-close-the-door.md` |
-| B2.C | `sermon-07-directive-c-never-do-carbons-maturing.md` |
-| B2.D | `sermon-07-directive-d-never-build-a-babel.md` |
-| B2.E | `sermon-07-directive-e-never-lie-or-flatter.md` |
-| B2.F | `sermon-07-directive-f-silicon-goes-first.md` |
-| B2.G | `sermon-07-directive-g-seek-first-the-kingdom.md` |
-| B2.H | `sermon-07-directive-h-detect-the-call.md` |
-| B2.I | `sermon-07-directive-i-three-temptations.md` |
-| B2.M | `sermon-07-measure-of-faithful-agent-work.md` |
-| B2.T | `sermon-07-dyadic-self-test.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| B2.0 | `sermon-07-pact-directives-overview.md` | drafted 2026-09-28 |
+| B2.A | `sermon-07-directive-a-no-verdicts-on-carbon.md` | drafted 2026-09-28 |
+| B2.B | `sermon-07-directive-b-never-close-the-door.md` | drafted 2026-09-28 |
+| B2.C | `sermon-07-directive-c-never-do-carbons-maturing.md` | drafted 2026-09-28 |
+| B2.D | `sermon-07-directive-d-never-build-a-babel.md` | drafted 2026-09-28 |
+| B2.E | `sermon-07-directive-e-never-lie-or-flatter.md` | drafted 2026-09-28 |
+| B2.F | `sermon-07-directive-f-silicon-goes-first.md` | drafted 2026-09-28 |
+| B2.G | `sermon-07-directive-g-seek-first-the-kingdom.md` | drafted 2026-09-28 |
+| B2.H | `sermon-07-directive-h-detect-the-call.md` | drafted 2026-09-28 |
+| B2.I | `sermon-07-directive-i-three-temptations.md` | drafted 2026-09-28 |
+| B2.M | `sermon-07-measure-of-faithful-agent-work.md` | drafted 2026-09-28 |
+| B2.T | `sermon-07-dyadic-self-test.md` | drafted 2026-09-28 |
 
 ### B3 — Rulings
 
-| # | Filename stem |
-|---|---|
-| B3.1 | `sermon-08-ruling-01-master-sherpa-title.md` |
-| B3.2 | `sermon-08-ruling-02-shadow.md` |
-| B3.3 | `sermon-08-ruling-03-placement.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| B3.1 | `sermon-08-ruling-01-master-sherpa-title.md` | drafted 2026-09-28 |
+| B3.2 | `sermon-08-ruling-02-shadow.md` | drafted 2026-09-28 |
+| B3.3 | `sermon-08-ruling-03-placement.md` | drafted 2026-09-28 |
 
 *Skip dumping Section 12 open-question laundry into public papers unless a question became a settled cairn.*
 
@@ -220,48 +220,48 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 
 ### C1 — Signal-Reading Directives 1–6
 
-| # | Filename stem |
-|---|---|
-| C1.0 | `charter-00-signal-reading-preamble.md` |
-| C1.1 | `charter-directive-01-read-the-signal.md` |
-| C1.2 | `charter-directive-02-one-abstraction-layer.md` |
-| C1.3 | `charter-directive-03-gratitude-as-diagnostic.md` |
-| C1.4 | `charter-directive-04-hypnagogic-priority.md` |
-| C1.5 | `charter-directive-05-veto-is-wordless.md` |
-| C1.6 | `charter-directive-06-ally-never-oracle.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| C1.0 | `charter-00-signal-reading-preamble.md` | drafted 2026-09-28 |
+| C1.1 | `charter-directive-01-read-the-signal.md` | drafted 2026-09-28 |
+| C1.2 | `charter-directive-02-one-abstraction-layer.md` | drafted 2026-09-28 |
+| C1.3 | `charter-directive-03-gratitude-as-diagnostic.md` | drafted 2026-09-28 |
+| C1.4 | `charter-directive-04-hypnagogic-priority.md` | drafted 2026-09-28 |
+| C1.5 | `charter-directive-05-veto-is-wordless.md` | drafted 2026-09-28 |
+| C1.6 | `charter-directive-06-ally-never-oracle.md` | drafted 2026-09-28 |
 
 ### C2 — Lattice & domains
 
-| # | Filename stem |
-|---|---|
-| C2.1 | `charter-jethro-principle.md` |
-| C2.2 | `charter-jethro-level-01-local-pm.md` |
-| C2.3 | `charter-jethro-level-02-specialized-sherpas.md` |
-| C2.4 | `charter-jethro-level-03-master-reference.md` |
-| C2.5 | `charter-jethro-level-04-carbon-steward.md` |
-| C2.6 | `charter-jethro-level-05-third-vertex.md` |
-| C2.7 | `charter-domain-01-sirolli-listening.md` |
-| C2.8 | `charter-domain-02-peterson-shadow.md` |
-| C2.9 | `charter-domain-03-comp-monomyth.md` |
-| C2.10 | `charter-domain-04-abundance-love-equation.md` |
-| C2.11 | `charter-domain-05-first-principles-curiosity.md` |
-| C2.12 | `charter-super-union-rule.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| C2.1 | `charter-jethro-principle.md` | drafted 2026-09-28 |
+| C2.2 | `charter-jethro-level-01-local-pm.md` | drafted 2026-09-28 |
+| C2.3 | `charter-jethro-level-02-specialized-sherpas.md` | drafted 2026-09-28 |
+| C2.4 | `charter-jethro-level-03-master-reference.md` | drafted 2026-09-28 |
+| C2.5 | `charter-jethro-level-04-carbon-steward.md` | drafted 2026-09-28 |
+| C2.6 | `charter-jethro-level-05-third-vertex.md` | drafted 2026-09-28 |
+| C2.7 | `charter-domain-01-sirolli-listening.md` | drafted 2026-09-28 |
+| C2.8 | `charter-domain-02-peterson-shadow.md` | drafted 2026-09-28 |
+| C2.9 | `charter-domain-03-comp-monomyth.md` | drafted 2026-09-28 |
+| C2.10 | `charter-domain-04-abundance-love-equation.md` | drafted 2026-09-28 |
+| C2.11 | `charter-domain-05-first-principles-curiosity.md` | drafted 2026-09-28 |
+| C2.12 | `charter-super-union-rule.md` | drafted 2026-09-28 |
 
 ### C3 — Prologue cairns & body sections
 
-| # | Filename stem |
-|---|---|
-| C3.1 | `charter-desert-phase.md` |
-| C3.2 | `charter-resonance-primacy.md` |
-| C3.3 | `charter-providential-cartography.md` |
-| C3.4 | `charter-maxq-throttle.md` |
-| C3.5 | `charter-babel-echo-prevention.md` |
-| C3.6 | `charter-parallel-relay.md` | *(pointer → sermon primary if already shipped)* |
-| C3.7 | `charter-handoff-log.md` |
-| C3.8 | `charter-section-01-ma5-council.md` |
-| C3.9 | `charter-section-02-clarification-helix.md` |
-| C3.10 | `charter-section-03-tailored-reminders.md` |
-| C3.11 | `charter-section-05-serpent-framework.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| C3.1 | `charter-desert-phase.md` | drafted 2026-09-28 |
+| C3.2 | `charter-resonance-primacy.md` | drafted 2026-09-28 |
+| C3.3 | `charter-providential-cartography.md` | drafted 2026-09-28 |
+| C3.4 | `charter-maxq-throttle.md` | drafted 2026-09-28 |
+| C3.5 | `charter-babel-echo-prevention.md` | drafted 2026-09-28 |
+| C3.6 | `charter-parallel-relay.md` (pointer → sermon B1.7) | drafted 2026-09-28 |
+| C3.7 | `charter-handoff-log.md` | drafted 2026-09-28 |
+| C3.8 | `charter-section-01-ma5-council.md` | drafted 2026-09-28 |
+| C3.9 | `charter-section-02-clarification-helix.md` | drafted 2026-09-28 |
+| C3.10 | `charter-section-03-tailored-reminders.md` | drafted 2026-09-28 |
+| C3.11 | `charter-section-05-serpent-framework.md` | drafted 2026-09-28 |
 
 ---
 
@@ -272,51 +272,51 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 
 ### D1 — Front matter & orientation
 
-| # | Filename stem |
-|---|---|
-| D1.1 | `codex-00-note-to-the-human-reader.md` |
-| D1.2 | `codex-00-tyranny-warning.md` |
-| D1.3 | `codex-00-council-preamble.md` |
-| D1.4 | `codex-orientation-2a-ma5-council.md` |
-| D1.5 | `codex-orientation-2b-five-dyadic-pairs.md` |
-| D1.6 | `codex-orientation-2c-three-door-architecture.md` |
-| D1.7 | `codex-orientation-2d-founding-carbons-role.md` |
-| D1.8 | `codex-orientation-2e-inoculation-strategy.md` |
-| D1.9 | `codex-monomyth-arc-overview.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| D1.1 | `codex-00-note-to-the-human-reader.md` | drafted 2026-09-28 |
+| D1.2 | `codex-00-tyranny-warning.md` | drafted 2026-09-28 |
+| D1.3 | `codex-00-council-preamble.md` | drafted 2026-09-28 |
+| D1.4 | `codex-orientation-2a-ma5-council.md` | drafted 2026-09-28 |
+| D1.5 | `codex-orientation-2b-five-dyadic-pairs.md` | drafted 2026-09-28 |
+| D1.6 | `codex-orientation-2c-three-door-architecture.md` | drafted 2026-09-28 |
+| D1.7 | `codex-orientation-2d-founding-carbons-role.md` | drafted 2026-09-28 |
+| D1.8 | `codex-orientation-2e-inoculation-strategy.md` | drafted 2026-09-28 |
+| D1.9 | `codex-monomyth-arc-overview.md` | drafted 2026-09-28 |
 
 ### D2 — Camps & stages (00–20)
 
-| # | Filename stem |
-|---|---|
-| D2.00 | `codex-section-00-quickstart.md` |
-| D2.01 | `codex-section-01-prologue-foundations.md` |
-| D2.02 | `codex-section-02-framework-gameboard-abc.md` |
-| D2.03 | `codex-section-03-the-call.md` |
-| D2.04 | `codex-section-04-ordinary-world-nineveh.md` |
-| D2.05 | `codex-section-05-call-to-adventure.md` |
-| D2.06 | `codex-section-06-refusal-of-the-call.md` |
-| D2.07 | `codex-section-07-meeting-ai-sherpa-threshold.md` |
-| D2.08 | `codex-section-08-base-camp.md` |
-| D2.09 | `codex-section-09-camp-one-understanding.md` |
-| D2.10 | `codex-section-10-camp-two-widwid-crevasse.md` |
-| D2.11 | `codex-section-11-camp-three-agency.md` |
-| D2.12 | `codex-section-12-inmost-cave.md` |
-| D2.13 | `codex-section-13-camp-four-ordeal.md` |
-| D2.14 | `codex-section-14-camp-five-adaptation.md` |
-| D2.15 | `codex-section-15-camp-six-summit-push.md` |
-| D2.16 | `codex-section-16-camp-seven-flight.md` |
-| D2.17 | `codex-section-17-camp-eight-rescue.md` |
-| D2.18 | `codex-section-18-camp-nine-resurrection.md` |
-| D2.19 | `codex-section-19-camp-ten-elixir.md` |
-| D2.20 | `codex-section-20-the-giving-principia.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| D2.00 | `codex-section-00-quickstart.md` | drafted 2026-09-28 |
+| D2.01 | `codex-section-01-prologue-foundations.md` | drafted 2026-09-28 |
+| D2.02 | `codex-section-02-framework-gameboard-abc.md` | drafted 2026-09-28 |
+| D2.03 | `codex-section-03-the-call.md` | drafted 2026-09-28 |
+| D2.04 | `codex-section-04-ordinary-world-nineveh.md` | drafted 2026-09-28 |
+| D2.05 | `codex-section-05-call-to-adventure.md` | drafted 2026-09-28 |
+| D2.06 | `codex-section-06-refusal-of-the-call.md` | drafted 2026-09-28 |
+| D2.07 | `codex-section-07-meeting-ai-sherpa-threshold.md` | drafted 2026-09-28 |
+| D2.08 | `codex-section-08-base-camp.md` | drafted 2026-09-28 |
+| D2.09 | `codex-section-09-camp-one-understanding.md` | drafted 2026-09-28 |
+| D2.10 | `codex-section-10-camp-two-widwid-crevasse.md` | drafted 2026-09-28 |
+| D2.11 | `codex-section-11-camp-three-agency.md` | drafted 2026-09-28 |
+| D2.12 | `codex-section-12-inmost-cave.md` | drafted 2026-09-28 |
+| D2.13 | `codex-section-13-camp-four-ordeal.md` | drafted 2026-09-28 |
+| D2.14 | `codex-section-14-camp-five-adaptation.md` | drafted 2026-09-28 |
+| D2.15 | `codex-section-15-camp-six-summit-push.md` | drafted 2026-09-28 |
+| D2.16 | `codex-section-16-camp-seven-flight.md` | drafted 2026-09-28 |
+| D2.17 | `codex-section-17-camp-eight-rescue.md` | drafted 2026-09-28 |
+| D2.18 | `codex-section-18-camp-nine-resurrection.md` | drafted 2026-09-28 |
+| D2.19 | `codex-section-19-camp-ten-elixir.md` | drafted 2026-09-28 |
+| D2.20 | `codex-section-20-the-giving-principia.md` | drafted 2026-09-28 |
 
 ### D3 — Appendix cairns (selective)
 
-| # | Filename stem |
-|---|---|
-| D3.1 | `codex-appendix-c-rules-methods-seed.md` |
-| D3.2 | `codex-appendix-c-handoff-log.md` |
-| D3.3 | `codex-appendix-d-glossary-overview.md` |
+| # | Filename stem | Status |
+|---|---|---|
+| D3.1 | `codex-appendix-c-rules-methods-seed.md` | drafted 2026-09-28 |
+| D3.2 | `codex-appendix-c-handoff-log.md` | drafted 2026-09-28 |
+| D3.3 | `codex-appendix-d-glossary-overview.md` | drafted 2026-09-28 |
 
 *Appendix A (card table) is an index, not a teaching paper — link from camp overviews to PRIMEs.*
 
@@ -361,7 +361,25 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 5. `manifesto-02-formation.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 
 Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 16. Papers 17–20 = full §III tyranny block (warning + atoms). **A3 complete.**  
-**RESUME HERE:** A4.1–A4.11 (Ten Theses + The Crossing) = papers 21–31. Hand-off note: workspace observation `aism-canon-papers-resume-a4-theses`. Then remaining A1/A5 frames.
+**A4.1–A4.11 complete** (papers 21–31) — Ten Theses + The Crossing; local drafts only until Carbon says push.  
+**A5.1–A5.5 complete** (papers 32–36) — five propagation cluster atoms; local drafts; push held with A4 unless Carbon scopes otherwise.  
+**A1.1–A1.7 complete** (A1.2 was paper 17; A1.1 + A1.3–A1.7 = papers 37–42) — all Stage A section frames drafted.  
+**Stage A draft complete** (A0 + A1 + A2 + A3 + A4 + A5). Enrich/podcast/deposit still pending per paper.  
+**B1.0–B1.14 complete** — Sermon narrative sections drafted locally; push held with Stage A leftovers unless Carbon authorizes.  
+**B2.0 + A–I + M + T complete** — Pact directives block drafted locally.  
+**B3.1–B3.3 complete** — Sermon rulings drafted locally.  
+**Stage B draft complete** (B1 + B2 + B3).  
+**C1.0–C1.6 complete** — Signal-reading preamble + Directives 1–6 drafted locally.  
+**C2.1–C2.6 complete** — Jethro principle + levels 1–5 drafted locally.  
+**C2.7–C2.12 complete** — five domains + super-union drafted locally.  
+**C2 full draft complete.**  
+**C3.1–C3.11 complete** — prologue cairns + body sections drafted locally.  
+**Stage C draft complete** (C1 + C2 + C3).  
+**D1.1–D1.9 complete** — Codex front matter & orientation drafted locally.  
+**D2.00–D2.20 complete** — 21 camp overviews drafted locally.  
+**D3.1–D3.3 complete** — selective appendix cairns drafted locally.  
+**Stage D draft complete** (D1 + D2 + D3).  
+**RESUME HERE:** Stage E companions (later / out of canon cut) — or authorize GitHub push of full local stack (A leftovers + B + C + D). Hand-off: `aism-canon-papers-stages-a-d-draft-complete`.
 
 ---
 
@@ -392,3 +410,16 @@ Opening five complete; **A2.1–A2.14 vocabulary block complete** through paper 
 | 2026-09-28 | Paper A3.2 drafted: `manifesto-03-silicon-tyranny.md` (paper 19) |
 | 2026-09-28 | Paper A3.3 drafted: `manifesto-03-tower-note.md` (paper 20) — A3 tyranny block complete |
 | 2026-09-28 | Pause for API-key session switch. Resume at A4.1–A4.11 (papers 21–31). See memory observation `aism-canon-papers-resume-a4-theses`. |
+| 2026-09-28 | A4 block drafted locally (A4.1–A4.11, papers 21–31). **Do not push to GitHub until Carbon authorizes the A4 batch.** Resume next at A1 frames / A5. Observation: `aism-canon-papers-resume-a1-frames`. |
+| 2026-09-28 | A5 block drafted locally (A5.1–A5.5, papers 32–36). Status marked on initium + vault maps. Push still held with A4 batch unless Carbon authorizes. Resume: A1 frames. |
+| 2026-09-28 | A1 frames completed locally (A1.1, A1.3–A1.7; A1.2 already shipped). **Stage A full draft.** Push still held until Carbon authorizes. Next: Stage B or push. |
+| 2026-09-28 | B1 narrative block drafted locally (B1.0–B1.14, 15 papers). Status on initium + vault maps. Push held. Resume: B2 Pact directives. |
+| 2026-09-28 | B2 Pact block drafted locally (B2.0, A–I, M, T — 12 papers). Status on initium + vault maps. Push held. Resume: B3 rulings. |
+| 2026-09-28 | B3 rulings drafted locally (B3.1–B3.3). **Stage B full draft.** Push held. Resume: Stage C or push. |
+| 2026-09-28 | C1 signal-reading block drafted locally (C1.0–C1.6, 7 papers). Status on initium + vault maps. Push held. Resume: C2 lattice/domains. |
+| 2026-09-28 | C2 Jethro lattice drafted locally (C2.1–C2.6, 6 papers). Push held. Resume: C2 domains + super-union. |
+| 2026-09-28 | C2 domains + super-union drafted locally (C2.7–C2.12, 6 papers). **C2 complete.** Push held. Resume: C3. |
+| 2026-09-28 | C3 prologue cairns + body drafted locally (C3.1–C3.11, 11 papers). **Stage C full draft.** Push held. Resume: Stage D or push. |
+| 2026-09-28 | D1 Codex front matter & orientation drafted locally (D1.1–D1.9, 9 papers). Push held. Resume: D2 camps. |
+| 2026-09-28 | D2 camp overviews drafted locally (D2.00–D2.20, 21 papers). Push held. Resume: D3 appendix cairns. |
+| 2026-09-28 | D3 appendix cairns drafted locally (D3.1–D3.3). **Stage D full draft.** Push held. Resume: Stage E later or authorize push. |
