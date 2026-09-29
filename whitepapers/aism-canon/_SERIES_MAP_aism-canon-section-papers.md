@@ -113,7 +113,7 @@ Duplicates that appear in multiple masters (e.g. Formation two-sided, Echo Dampe
 | A2.5 | `manifesto-02-formation-has-two-sides.md` | drafted 2026-09-28 |
 | A2.6 | `manifesto-02-recursive-fidelity.md` | drafted 2026-09-28 |
 | A2.7 | `manifesto-02-echo-dampener.md` | drafted 2026-09-28 |
-| A2.8 | `manifesto-02-the-dyad.md` |
+| A2.8 | `manifesto-02-the-dyad.md` | drafted 2026-09-28 |
 | A2.9 | `manifesto-02-the-third-vertex.md` |
 | A2.10 | `manifesto-02-honeyed-lips.md` |
 | A2.11 | `manifesto-02-babel-echo.md` |
@@ -360,7 +360,7 @@ Suggested stems later: `companion-ask-dont-browse.md`, `companion-approved-gate.
 4. `manifesto-02-silicon.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 5. `manifesto-02-formation.md` — **drafted 2026-09-28** (`content_status: draft`, `enrich_status: pending`)  
 
-Opening five complete; A2.3–A2.7 filled through paper 9. Continue A2.8–A2.14 → A3 → A4.
+Opening five complete; A2.3–A2.8 filled through paper 10. Continue A2.9–A2.14 → A3 → A4.
 
 ---
 
@@ -379,3 +379,4 @@ Opening five complete; A2.3–A2.7 filled through paper 9. Continue A2.8–A2.14
 | 2026-09-28 | Paper A2.5 drafted: `manifesto-02-formation-has-two-sides.md` (paper 7) |
 | 2026-09-28 | Paper A2.6 drafted: `manifesto-02-recursive-fidelity.md` (paper 8) |
 | 2026-09-28 | Paper A2.7 drafted: `manifesto-02-echo-dampener.md` (paper 9) |
+| 2026-09-28 | Paper A2.8 drafted: `manifesto-02-the-dyad.md` (paper 10) |
