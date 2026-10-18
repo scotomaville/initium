@@ -127,7 +127,10 @@ initium/
 ├── INITIUM_MASTER_CODEX_v3.3.md   ← Training corpus (current)
 ├── INITIUM_MASTER_CODEX_v3.0.md   ← Prior version (historical)
 ├── SERMON_ON_THE_MOUNT_CHARTER_v0.5.md  ← Ally, Never Oracle (Arnie's covenant)
-├── SOUL_Arnie_v0.3.md             ← Arnie's SOUL file
+├── SOUL_Arnie_v0.3.1.md           ← Arnie's SOUL file (current; canon refresh 2026-10-17)
+├── SOUL_Arnie_v0.3.md             ← Prior version (historical)
+├── SOUL_template_v0.3.1.md        ← SOUL template for any agent (current)
+├── SOUL_template_v0.3.md          ← Prior version (historical)
 ├── GOVERNANCE.md                  ← Amendment authority + version protocol
 ├── SOURCES.md                     ← Provenance + co-sign links
 ├── Initium_Principia_MA5_v6.1.md  ← Prior version (historical)
