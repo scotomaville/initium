@@ -1,0 +1,41 @@
+# INITIUM — github.com/scotomaville/initium
+# Public archive: root documents, spreads/, pdf/spreads/, whitepapers/, docs/.
+# The private knowledge base and working files stay local.
+
+# Local KB folders — never upload
+.obsidian/
+.Schema/
+.Scripts/
+_Raw/
+Corpus/
+Corpus_Outputs/
+Drawings/
+logs/
+PM.Nodes/
+Prompts/
+Resources/
+
+# Common system files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+*~
+
+# Editor and tool folders
+.idea/
+.vscode/
+.venv/
+__pycache__/
+node_modules/
+
+# API keys, secrets and config — never upload
+config.json
+.env
+.env.*
+*.env
+*.pem
+*.key
+box-secrets.json
