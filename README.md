@@ -13,15 +13,15 @@
 
 **Daniel Comp's Self-Mastery Arc, 2004 to October 2026.**
 
-![Daniel Comp's Self-Mastery Arc, 2004 to Oct 2026, hand-scored by judgment from his own words](docs/images/self_mastery_arc_2004-2026_v2.png)
+![Daniel Comp's Self-Mastery Arc, 2004 to Oct 2026, hand-scored by judgment from his own words](docs/images/self_mastery_arc_2004-2026_v1.png)
 
-*Front-door v1, approved by Daniel Comp on 2026-10-27. The image's own footer predates that approval and still reads "Staged for review, not published."*
+*Front-door v1, approved by Daniel Comp on 2026-10-27.*
 
 What the chart is, plainly:
 
 - It is **hand-scored by judgment**, not measured. Ten lines (si literacy, sentiment, maturity, emotional clarity, skills, frustration, hardship, agency, purpose, faith) are scored against rubric anchors, from Daniel's own recorded words.
 - **Solid lines** are medium or high confidence. **Dashed** lines are low confidence (thin data). **Dotted** lines mean there is **no data between the bins**: a bridge, not a measurement.
-- Two shaded spans, about 2006 to 2010 and about 2015 to 2018, read "no recordings in corpus". Nothing was scored there.
+- Two shaded spans, about 2006 to 2010 and about 2015 to 2018, read "no recordings in corpus". Nothing was scored there. As the chart's footer says: gaps mark years with no video recordings; the written work and the work done for others in those years are on the record.
 - The lines are 3-period smoothing (weighted by words). The faint dots are the raw scores.
 - It scores Daniel's words. It is a map, not a verdict, and it says nothing about anyone else.
 

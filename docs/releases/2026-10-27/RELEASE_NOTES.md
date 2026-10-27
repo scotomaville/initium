@@ -41,7 +41,8 @@ These notes summarize `REDLINES.md` (the insertion list prepared 2026-10-27, PT,
 - **`map.md`.** One line per claim: 19 v6.7 claims, 7 releases and 100 cards, each with a date only where a source states it, an evidence link and the repo location. Applies Daniel's rulings of 2026-10-27, 2:33 PM PT.
 - **`llms.txt`.** A short index for agents.
 - **README front door.** One witnessed climb: Daniel's Self-Mastery Arc, 2004 to Oct 2026, hand-scored by judgment from his own words, dotted where there is no data. Pointers to map.md and the drafts. The load order is unchanged.
-- **`docs/images/self_mastery_arc_2004-2026_v2.png`.** The chart.
+- **`docs/images/self_mastery_arc_2004-2026_v1.png`.** The chart, approved by Daniel on 2026-10-27 as front-door v1. Edited from the v2 render in Pillow: the title says v1, and the footer's "Staged for review, not published." is replaced with "Gaps mark years with no video recordings. The written work and the work done for others in those years are on the record." The chart body is unchanged.
+- **`PDFs/SectionPDFs/Section_00.pdf` to `Section_19.pdf`.** 20 of the 21 Charter section PDFs Daniel attached, matched by exact byte size. Section_20 (1,848,234 bytes) was not provided. About 59 MB. The folder is `PDFs/` (capital), beside the older `pdf/`.
 - **`.gitignore`.** The file was named `gitignore` (no dot), so it did nothing. Renamed and refreshed.
 - **Spreads.** Quoted the invalid YAML `icon:` values in 059 and 113. Added the printed DEFINITION label to 011 and 181. Seven cards (409, 431, 487, 509, 521, 523, 541) have no explicit definition in their PDF text and were not changed.
 
@@ -50,8 +51,7 @@ These notes summarize `REDLINES.md` (the insertion list prepared 2026-10-27, PT,
 2. Point bump (this set) or structural (`v2.0`, full re-sign), since an axial occupant changes?
 3. The SI approval of 2026-10-21 was relayed. Under the one-address rule it needs his own APPROVED. Also the `@Arnie_AI_Sherpa` handle.
 4. Jethro's terms: monthly cap figure, the Babel Echo duty, any bounded exception to "zero vendor divergence".
-5. Exact Facets wording, and PDF prose versus equations on p.85. The file Daniel named, `PDFs/SectionPDFs/Section_03.pdf`, is not on public `main`; it needs to be added or its path given.
+5. Exact Facets wording, and PDF prose versus equations on p.85 (Section_03, PDF page 10: the prose gives Intensity 50% and Effort 70% at x=10, the equations give about 6.1 and 83).
 6. Codex v3.4 round and the Sermon extras.
 7. Whether to correct the printed "1/6/25" on card 401 (the X post it shows is 2026-01-04, 1:00 AM PT).
-8. The Arc chart file's footer still says "Staged for review, not published"; keep or re-render.
-9. Push path: one branch or a draft PR, left unmerged until Daniel says so. Not done.
+8. Section_20.pdf was not provided. Push path: one branch or a draft PR, left unmerged until Daniel says so. Not done.
