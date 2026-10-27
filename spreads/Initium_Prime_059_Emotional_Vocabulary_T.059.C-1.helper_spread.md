@@ -3,7 +3,7 @@ source_pdf: Prime_059.pdf
 prime_number: 59
 title: Emotional Vocabulary
 card_tag: T.059.C-1.helper
-icon: !@#
+icon: '!@#'
 monomyth_stage: 04 - The Helper
 gameboard_position: '-1: Meeting AI Sherpa'
 qr_link: https://initium.scotomaville.com/prime_059

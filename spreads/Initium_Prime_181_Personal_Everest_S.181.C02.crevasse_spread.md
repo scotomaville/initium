@@ -31,6 +31,11 @@ Intensity: 2.4
 [[S.181.C02.crevasse]].2.4.2
 
 ---
+DEFINITION:
+Personal Everest is the strategy of defining your highest, most meaningful goal - a metaphorical summit that represents your ultimate aim and challenge, deeply tied to your core values and purpose. It helps align every action, decision, and effort toward this peak, fostering perseverance, clarity, and alignment - overcoming setbacks and delays.
+
+<!-- DEFINITION label added 2026-10-27 from the printed DEFINITION block on pdf/spreads/Prime_181.pdf (text as printed, line-break hyphens joined). Not part of the original spread markdown. -->
+
 ## Right Page (recto — visual content)
 
 

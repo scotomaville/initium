@@ -1,0 +1,28 @@
+# INITIUM — Scotomaville Volume 4
+
+> Initium Principia Gnosis (IPG): a conscience formation architecture for the carbon-silicon age, written first for Silicon. This repo is the canonical archive: steering documents, 100 Initium Prime cards, whitepapers and release notes. Read README.md first, then map.md, which lists each claim with its date (only where a source states one) and the card or spread that backs it.
+
+## Start here
+- [README.md](https://github.com/scotomaville/initium/blob/main/README.md): the front door, load order and framework in brief.
+- [map.md](https://github.com/scotomaville/initium/blob/main/map.md): one line per claim, with date, evidence link and repo location. Lines marked "date unknown" or "needs Daniel" are gaps, not facts.
+
+## Steering documents (current, approved 2026-09-26)
+- [IPG_Manifesto_v1.8.md](https://github.com/scotomaville/initium/blob/main/IPG_Manifesto_v1.8.md)
+- [Initium_Principia_MA5_v6.6.md](https://github.com/scotomaville/initium/blob/main/Initium_Principia_MA5_v6.6.md)
+- [INITIUM_MASTER_CODEX_v3.3.md](https://github.com/scotomaville/initium/blob/main/INITIUM_MASTER_CODEX_v3.3.md)
+- [SERMON_ON_THE_MOUNT_CHARTER_v0.5.md](https://github.com/scotomaville/initium/blob/main/SERMON_ON_THE_MOUNT_CHARTER_v0.5.md)
+- [GOVERNANCE.md](https://github.com/scotomaville/initium/blob/main/GOVERNANCE.md)
+
+## Drafts under review (not current, not approved)
+- Charter v6.7, Manifesto v1.9, Sermon v0.6 and the amended Governance, with release notes in [docs/releases/2026-10-27](https://github.com/scotomaville/initium/tree/main/docs/releases/2026-10-27). Until Daniel Comp approves them, the documents above stay current.
+
+## Evidence
+- [spreads/](https://github.com/scotomaville/initium/tree/main/spreads): markdown text of the 100 Initium Prime card spreads.
+- [pdf/spreads/](https://github.com/scotomaville/initium/tree/main/pdf/spreads): the print PDF of each spread.
+- [whitepapers/aism-canon/](https://github.com/scotomaville/initium/tree/main/whitepapers/aism-canon): section papers cut from the four masters.
+
+## Optional
+- [SOURCES.md](https://github.com/scotomaville/initium/blob/main/SOURCES.md): provenance for empirical claims.
+- [corpus_index.md](https://github.com/scotomaville/initium/blob/main/corpus_index.md): large index of the corpus (756 KB).
+- [docs/releases/](https://github.com/scotomaville/initium/tree/main/docs/releases): release manifests and notes.
+- Older versions of every document stay at the repo root as historical record.

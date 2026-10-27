@@ -29,6 +29,11 @@ Intensity: 1.1
 [[P.011]].C-3.call.1.1.5
 
 ---
+DEFINITION:
+Awareness > Understanding > Discipline is a three-stage process for self-mastery: becoming aware of a challenge, understanding its underlying causes, and taking action to achieve lasting change. This progression is like a mountaineer’s ascent: spotting the summit (awareness), mapping the route (understanding), and climbing with purpose (agency)
+
+<!-- DEFINITION label added 2026-10-27 from the printed DEFINITION block on pdf/spreads/Prime_011.pdf (text as printed, line-break hyphens joined). Not part of the original spread markdown. -->
+
 ## Right Page (recto — visual content)
 
 

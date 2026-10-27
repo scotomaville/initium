@@ -3,7 +3,7 @@ source_pdf: Prime_113.pdf
 prime_number: 113
 title: Biblical & Stoic Wisdom
 card_tag: P.113.C01.helper
-icon: []-[]
+icon: '[]-[]'
 monomyth_stage: 05 - The Helper
 gameboard_position: 'Camp 1: Understanding'
 qr_link: https://initium.scotomaville.com/prime_113
