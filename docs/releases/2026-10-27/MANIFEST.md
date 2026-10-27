@@ -33,3 +33,4 @@ Not approved. SHA-256 is of the file bytes as they stand on branch `v6.7-claims-
 | PDFs/SectionPDFs/Section_19.pdf | `22f72dc5e59141e2267d0b5635c68e091dd900c48f9edc51415ce4f0b570b5c4` | Charter section PDF (Daniel's attachment) |
 
 Unchanged and still current: IPG_Manifesto_v1.8.md, Initium_Principia_MA5_v6.6.md, INITIUM_MASTER_CODEX_v3.3.md, SERMON_ON_THE_MOUNT_CHARTER_v0.5.md, GOVERNANCE.md.
+| PDFs/SectionPDFs/Section_20.pdf | 1848234 | 7cab90dfdeeb2c94970e903287d78a4d658c7095ef4e02f1001a0ada96bd6bd5 |
