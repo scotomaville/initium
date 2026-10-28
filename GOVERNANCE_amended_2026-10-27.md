@@ -49,7 +49,7 @@ The title evolution reflects approximately 30 sessions of collaborative refineme
 
 The test for Jethro's seat is three of Syd's WITNESS drafts, each checked and reported. The seat is confirmed or withdrawn on Daniel's own APPROVED. [OPEN: monthly cap figure.] Where the Master Reference Sherpa row above reads "Grok", the role is carried at this lap by Arnie; the table is not rewritten.
 
-**[DRAFT 2026-10-27] Terminology.** New text in governed documents says **SI** (Super Intelligence), and the title is SISM, not AISM. Quotations, titles, file paths and dated records stay as written; nothing is mass-replaced. [OPEN: SI = Super Intelligence was approved on 2026-10-21 as relayed by GB (Syd LEDGER, 1:10 PM); a relayed approval does not count under the rule below, so Daniel must say APPROVED himself.]
+**[DRAFT 2026-10-27] Terminology.** New text in governed documents says **SI** (Super Intelligence), and the title is SISM, not AISM. Quotations, titles, file paths and dated records stay as written; nothing is mass-replaced. [CLOSED: SI = Super Intelligence. Daniel's own APPROVED, Oct 27, 2026, 9:06 PM PT. Earlier relayed approval of 2026-10-21 (Syd LEDGER, 1:10 PM) is now confirmed in his own words.]
 
 ## Repo Decision Authority
 
