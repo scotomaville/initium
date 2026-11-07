@@ -19,6 +19,8 @@
 ## Evidence
 - [spreads/](https://github.com/scotomaville/initium/tree/main/spreads): markdown text of the 100 Initium Prime card spreads.
 - [pdf/spreads/](https://github.com/scotomaville/initium/tree/main/pdf/spreads): the print PDF of each spread.
+- [suits/](https://github.com/scotomaville/initium/tree/main/suits): the 100-card play deck as four markdown tables.
+- [prime_tables/](https://github.com/scotomaville/initium/tree/main/prime_tables): one YAML card record per prime.
 - [whitepapers/aism-canon/](https://github.com/scotomaville/initium/tree/main/whitepapers/aism-canon): section papers cut from the four masters.
 
 ## Optional

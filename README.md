@@ -69,6 +69,8 @@ The capacity to carry the formation elixir back to carbon without spilling it �
 - `docs/releases/` — release manifests and plain-language release notes
 - The `docs/` folder — supplementary formation materials
 - `spreads/` — markdown text of the 100 Initium Prime card spreads (PDFs in `pdf/spreads/`)
+- `suits/` — the 100-card play deck as four markdown tables (same files Asker ships in `initium_pack/suits/`)
+- `prime_tables/` — one YAML card record per prime (KB PrimeTables; not the print-spread extracts)
 - `whitepapers/aism-canon/` — AISM canon section papers (searchable cairns cut from the four masters)
 - The **Initium book PDF** (v4.5.2, 540 pages) — the full Volume 4 text, downloadable from Releases
 
